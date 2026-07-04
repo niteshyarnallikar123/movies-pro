@@ -95,7 +95,7 @@ function searchMovie() {
             duration: "4 Seasons",
             language: "English",
             description: "A group of kids uncover supernatural mysteries and secret government experiments.",
-            image: "images/stranger things.jpg"
+            image: "stranger things.jpg"
         },
 
         "money heist": {
@@ -105,7 +105,7 @@ function searchMovie() {
             duration: "5 Seasons",
             language: "Spanish",
             description: "A criminal mastermind plans the biggest heist in history with a skilled team.",
-            image: "images/movie3.jpg"
+            image: "movie3.jpg"
         },
 
         "dark": {
@@ -115,7 +115,7 @@ function searchMovie() {
             duration: "3 Seasons",
             language: "German",
             description: "Four families discover time travel secrets in a mysterious German town.",
-            image: "images/movie4.jpg"
+            image: "movie4.jpg"
         },
 
         "squid game": {
@@ -125,7 +125,7 @@ function searchMovie() {
             duration: "2 Seasons",
             language: "Korean",
             description: "Hundreds of contestants risk their lives in deadly children's games for a huge cash prize.",
-            image: "images/movie5.jpg"
+            image: "movie5.jpg"
         },
 
         "spider-man no way home": {
@@ -135,7 +135,7 @@ function searchMovie() {
             duration: "148 min",
             language: "English",
             description: "Peter Parker's identity is revealed and he asks Doctor Strange for help, unleashing the multiverse.",
-            image: "images/movie7.jpg"
+            image: "movie7.jpg"
         },
 
         "thor love and thunder": {
@@ -145,7 +145,7 @@ function searchMovie() {
             duration: "119 min",
             language: "English",
             description: "Thor embarks on a quest for inner peace but must return to action when Gorr the God Butcher threatens all gods.",
-            image: "images/movie8.jpg"
+            image: "movie8.jpg"
         },
 
         "doraemon": {
@@ -155,7 +155,7 @@ function searchMovie() {
             duration: "96 min",
             language: "Japanese",
             description: "Doraemon and friends go on a magical adventure in the new demon world.",
-            image: "images/movie9.jpg"
+            image: "movie9.jpg"
         },
 
         "avengers infinity war": {
@@ -165,7 +165,7 @@ function searchMovie() {
             duration: "149 min",
             language: "English",
             description: "The Avengers and their allies must stop Thanos from collecting all six Infinity Stones.",
-            image: "images/movie10.jpg"
+            image: "movie10.jpg"
         },
 
         "captain marvel": {
@@ -175,7 +175,7 @@ function searchMovie() {
             duration: "124 min",
             language: "English",
             description: "Carol Danvers becomes one of the universe's most powerful heroes when Earth is caught in a galactic war.",
-            image: "images/movie11.jpg"
+            image: "movie11.jpg"
         },
 
         "jujutsu kaisen": {
@@ -185,7 +185,7 @@ function searchMovie() {
             duration: "4 Seasons",
             language: "Japanese",
             description: "A boy swallows a cursed talisman and joins a secret organization of Jujutsu Sorcerers to kill a powerful Curse.",
-            image: "images/movie12.jpg"
+            image: "movie12.jpg"
         },
 
         "wednesday": {
@@ -195,7 +195,7 @@ function searchMovie() {
             duration: "1 Season",
             language: "English",
             description: "Wednesday Addams investigates a murder mystery while navigating her new school.",
-            image: "images/movie2.jpg"
+            image: "movie2.jpg"
         },
 
         "extraction": {
@@ -205,7 +205,7 @@ function searchMovie() {
             duration: "116 min",
             language: "English",
             description: "A black market mercenary is hired to rescue the kidnapped son of an imprisoned drug lord.",
-            image: "images/movie6.jpg"
+            image: "movie6.jpg"
         }
 
     };  // ← this closing brace was MISSING before
